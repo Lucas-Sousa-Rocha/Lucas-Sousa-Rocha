@@ -2,7 +2,7 @@
 
 Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde criança, sempre fui apaixonado por computadores e videogames, e essa paixão me levou a explorar cada vez mais esse universo. Atualmente, estou cursando um tecnólogo na área de programação e trabalho como suporte de TI (Help Desk). Tenho me dedicado ao estudo de linguagens como HTML, CSS, JavaScript e Java, buscando continuamente aprimorar meus conhecimentos e habilidades em programação.
 
-### Minhas Skills 
+### Minhas Skills 🚀🚀
 [![Java](https://badgen.net/badge/color/Java/red?label=)]()
 [![SQLServer](https://badgen.net/badge/color/MS%20SQL%20Server/yellow?label=)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
