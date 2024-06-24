@@ -14,4 +14,4 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-sousa-rocha&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-sousa-rocha&layout=compact)
