@@ -1,6 +1,6 @@
 ### Olá sou o Lucas Sousa 🖥️
 
-[![Java](https://camo.githubusercontent.com/76451856ada7ed8b03a4ff0b4d5315bcfa85360c2133e3dbc30a96e1759c79fe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667)]()
+[![Java](https://badgen.net/badge/color/Java/red?label=)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
