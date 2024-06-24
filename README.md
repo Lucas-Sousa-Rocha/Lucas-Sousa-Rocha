@@ -12,4 +12,4 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&show_icons=true&theme=dracula)
