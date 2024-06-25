@@ -17,7 +17,7 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-sousa-rocha&layout=compact)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-sousa-rocha&layout=compact&langs_count=8&card_width=320" />
