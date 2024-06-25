@@ -14,7 +14,6 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 ### Github Stats ⭐
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-sousa-rocha&layout=compact)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&icons=true&theme=radical" />
