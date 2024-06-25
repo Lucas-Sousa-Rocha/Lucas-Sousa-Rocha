@@ -15,3 +15,5 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
 
 ### Github Stats ⭐
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-sousa-rocha&layout=compact)
+
+<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVidalDev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages""/>
