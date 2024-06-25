@@ -4,7 +4,6 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
 
 ### Minhas Skills 🚀🚀
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="java"  />
   <img width="8" />
