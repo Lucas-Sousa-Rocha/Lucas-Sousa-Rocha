@@ -22,7 +22,7 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-sousa-rocha&layout=compact&langs_count=8&card_width=320&icons=true&theme=radical" />
 </a>
 
-### Redes sociais 
+### Entre Em Contato 📫 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-sousa-da-rocha/?originalSubdomain=br)
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.rocha2021@outlook.com)
