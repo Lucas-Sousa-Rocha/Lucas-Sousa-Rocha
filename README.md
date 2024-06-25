@@ -21,16 +21,13 @@ Sou estudante de programação e um entusiasta do mundo da tecnologia. Desde cri
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
-
-  
 </div>
 
 ### Github Stats ⭐
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a><a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-sousa-rocha&layout=compact&langs_count=8&card_width=320&icons=true&theme=radical" />
 </a>
 
