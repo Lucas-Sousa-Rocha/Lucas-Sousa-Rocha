@@ -11,7 +11,7 @@
 ###
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </a>
 
 ###
