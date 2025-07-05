@@ -41,7 +41,7 @@
   <img align="left" title="GitHub" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<br><br>
+<br/>
 
 
 <h2 align="left">Entre Em Contato 📫</h2>
@@ -64,21 +64,19 @@
 
 ###
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Sousa-Rocha&title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Sousa-Rocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
 </div>
+<br/>
 
-###
 
 <h2 align="left">Linguagens Mais Usadas 📖</h2>
 
 ###
 
-
-<a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-sousa-rocha&layout=compact&langs_count=8&card_width=320&icons=true&theme=radical" /></a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-Rocha&locale=pt-br&hide_title=false&layout=compact&card_width=470&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+</div>
 
 
 ###
@@ -91,6 +89,8 @@
 
 ###
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZzM2Z1amJibDYwN3Nkb3k1cHZzMDRob3hta2o0OWkwaGlmeXVscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+<div align="center">
+<img align="left" height="400" width=470 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZzM2Z1amJibDYwN3Nkb3k1cHZzMDRob3hta2o0OWkwaGlmeXVscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+</div>
 
 ###
