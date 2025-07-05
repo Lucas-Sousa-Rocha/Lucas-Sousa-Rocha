@@ -41,8 +41,7 @@
   <img align="left" title="GitHub" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<br/>
-
+<br><br>
 
 <h2 align="left">Entre Em Contato 📫</h2>
 
@@ -75,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-Rocha&locale=pt-br&hide_title=false&layout=compact&card_width=470&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-Rocha&locale=pt-br&hide_title=false&layout=compact&card_width=470&langs_count=10&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"/>
 </div>
 
 
