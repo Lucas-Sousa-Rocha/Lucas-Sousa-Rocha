@@ -64,7 +64,7 @@
 
 ###
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-sousa-rocha&icons=true&theme=radical" /></a>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Sousa-Rocha&title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-Rocha&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-sousa-rocha&layout=compact&langs_count=8&card_width=320&icons=true&theme=radical" /></a>
 </div>
 
 
